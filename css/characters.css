@@ -1,0 +1,39 @@
+@font-face {
+  font-family: "TheXFiles";
+  src: url("TheXFiles.eot"); /* IE9 Compat Modes */
+  src: url("TheXFiles.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+       url("TheXFiles.woff") format("woff"), /* Modern Browsers */
+       url("TheXFiles.ttf")  format("truetype"), /* Safari, Android, iOS */
+       url("TheXFiles.svg#svgFontName") format("svg"); /* Legacy iOS */
+}
+ul a{
+	color: #DDDDDD;
+	text-decoration: none;
+}
+.nav{
+	color: #010101;
+}
+.top_center{
+	position: relative;
+	float: left;
+    margin-top:0px;
+    margin-right:0px;
+    margin-bottom: 0px;
+    margin-left:275px;
+	padding: 0px;
+	width: 47%;
+	height: 300px;
+}
+
+.top_right img{
+	position: absolute;
+	margin-top:0px;
+    margin-right:0px;
+    margin-bottom: 0px;
+    margin-left:0px;
+	border: 3px solid #DDDDDD;
+}
+p{
+	padding-right: 10px;
+}
+
